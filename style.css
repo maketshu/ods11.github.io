@@ -119,12 +119,12 @@ body, ul{
 .exemple_video {
     display: flex;
     flex-direction: column;
-
-    margin: 2rem;
+    margin: 2.5rem;
 }
 
 .exemple__text {
     display: flex;
+    margin: 2rem;
 }
 
 /*.exemple__ctext{
